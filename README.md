@@ -2,7 +2,7 @@
 
  1. Infrastructure
     1. Network
-       1. [NSG(Network Security Groups)](https://github.com/hayriozler/AZURE/blob/master/Infrastructure/nsg.md)
+       1. [NSG(Network Security Groups)](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/nsg.md)
        2. Subnets
        3. VNet Peering
        4. Route tables
