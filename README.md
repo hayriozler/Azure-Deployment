@@ -3,25 +3,25 @@
  1. Infrastructure
     1. Network
        1. [NSG(Network Security Groups)](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/nsg.md)
-       2. Subnets
-       3. VNet Peering
-       4. Route tables
-       5. Azure Traffic Managers
-       6. Application Gateways
-       7. Monitoring deployments
-       8. Certifications
+       2. [Subnets](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/subnet.md)
+       3. [VNet Peering](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/vnetpeering.md)
+       4. [Route tables](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/routetable.md)
+       5. [Traffic Managers](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/azuretrafficmanager.md)
+       6. [Gateways](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/gateway.md)
+       7. [Certifications](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/certificate.md)
     2. Azure Kubernetes cluster
-       1. Azure container registry
-       2. Deploy AKS
+       1. [Azure container registry](https://github.com/hayriozler/Azure-Deployment/blob/master/Kubernetes/acr.md)
+       2. [AKS](https://github.com/hayriozler/Azure-Deployment/blob/master/Kubernetes/aks.md)
     3. DNS
-       1. DNS zones
+       1. [DNS zones](https://github.com/hayriozler/Azure-Deployment/blob/master/Kubernetes/dnszone.md)
     4. Key vaults
-       1. Storing secrets and certifications
-    5. Data Stores
-       1. Databases(SQL Azure databases)
-       2. Redis
-    6. Deploy Azure policies
+       1. [Storing secrets and certifications](https://github.com/hayriozler/Azure-Deployment/blob/master/KV/keyvaults.md)
+    5. Data Stores (Optional)
+       1. [Databases(SQL Azure databases)](https://github.com/hayriozler/Azure-Deployment/blob/master/DataStore/sql.md)
+       2. [Redis](https://github.com/hayriozler/Azure-Deployment/blob/master/DataStore/redis.md)
+    6. Azure policies
     7. VMs
        1. Jumpbox
+    8. Monitoring
  2. second
  3. third
