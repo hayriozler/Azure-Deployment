@@ -2,7 +2,7 @@
 
  1. Infrastructure
     1. Network
-       1. Network Security Groups
+       1. NSG(Network Security Groups)
        2. Subnets
        3. VNet Peering
        4. Route tables
@@ -14,15 +14,14 @@
        1. Azure container registry
        2. Deploy AKS
     3. DNS
-       1. Customer DNS zones
-    4. Data Stores
-       1. Storage accounts
-       2. Databases(SQL Azure databases)
-       3. Redis
-    5. Key vaults
+       1. DNS zones
+    4. Key vaults
+       1. Storing secrets and certifications
+    5. Data Stores
+       1. Databases(SQL Azure databases)
+       2. Redis
     6. Deploy Azure policies
     7. VMs
        1. Jumpbox
  2. second
  3. third
- 
