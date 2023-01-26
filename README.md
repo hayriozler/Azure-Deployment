@@ -2,8 +2,8 @@
 
  1. ***Infrastructure***
     1. **Network**
-       1. [NSG(Network Security Groups)](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/nsg.md)
-       2. [virtual Network](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/vnet.md)
+       1. [Virtual Network](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/vnet.md)
+       2. [NSG(Network Security Groups)](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/nsg.md)
        3. [Subnets](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/subnet.md)
        4. [VNet Peering](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/vnetpeering.md)
        5. [Route tables](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/routetable.md)
