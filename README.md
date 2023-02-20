@@ -1,10 +1,10 @@
-# Do you need to deploy an application to Azure?  I am going to try to explain step by step which components or services you need and how they can automatically deploy it
+# Do you need to deploy an application to Azure?  I am going to try to explain step by step which components or services you need and how you can deploy them automatically
 
  1. ***Infrastructure***
     1. **Network**
        1. [Virtual Network](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/vnet.md)
-       2. [NSG(Network Security Groups)](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/nsg.md)
-       3. [Subnets](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/subnet.md)
+       2. [Subnets](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/subnet.md)
+       3. [NSG(Network Security Groups)](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/nsg.md)
        4. [VNet Peering](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/vnetpeering.md)
        5. [Route tables](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/routetable.md)
        6. [Traffic Managers](https://github.com/hayriozler/Azure-Deployment/blob/master/Infrastructure/azuretrafficmanager.md)
